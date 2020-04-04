@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 2049c6bf1f77a66d86aba824e21a54ae7b1a8019 Shivam <shivam7466@gmail.com> 1585552181 +0530	commit (initial): commencement of notMNIST using Tensorflow
+2049c6bf1f77a66d86aba824e21a54ae7b1a8019 8139a4d40227fd6caf077d161af288043872cfda Shivam <shivam7466@gmail.com> 1586013201 +0530	commit: Done till checkpoint, with all progress saved in pickle file
+8139a4d40227fd6caf077d161af288043872cfda c8746ea220743827503ddf072633159f952bb761 Shivam <shivam7466@gmail.com> 1586014597 +0530	commit: Removed zip and pickle due to large sizes
+c8746ea220743827503ddf072633159f952bb761 2057a11420d360f015e78aafce874e1e035d81a1 Shivam <shivam7466@gmail.com> 1586016639 +0530	commit: modified gitignore
+2057a11420d360f015e78aafce874e1e035d81a1 dee8b5c0aba0862539683708b14506984d5bee37 Shivam <shivam7466@gmail.com> 1586016853 +0530	commit: deleted .pickle and .zip
+dee8b5c0aba0862539683708b14506984d5bee37 ee2bb4322c2bf243f82b6a31a8ac8a14e1843c96 Shivam <shivam7466@gmail.com> 1586017730 +0530	commit: modified gitignore
